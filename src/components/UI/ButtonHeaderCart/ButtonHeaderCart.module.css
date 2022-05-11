@@ -1,0 +1,28 @@
+.button__cart{
+    border: none;
+    cursor: pointer;
+    background-color: #ffd782;
+    color: #534666;
+    font-family: 'JetBrains Mono', monospace;
+    padding: 5px 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 4px;
+}
+.button__cart:hover,
+.button__cart:active{
+    background-color: #fac85a;
+}
+.button-icon__cart{
+    margin-right: 10px;
+}
+.button-text__cart{}
+.button-count__cart{
+    margin-left: 10px;
+    border: 1px solid #534666;
+    border-radius: 20px;
+    padding: 1px 15px;
+    background-color: #5b8291;
+    color: #e3e4e6;
+}

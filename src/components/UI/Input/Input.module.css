@@ -1,0 +1,19 @@
+.input {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.input label {
+  font-family: 'JetBrains Mono', monospace;
+  margin-right: 1rem;
+  font-weight: 600;
+}
+
+.input input {
+  width: 4rem;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  font-family: 'JetBrains Mono', monospace;
+  padding-left: 1rem;
+}

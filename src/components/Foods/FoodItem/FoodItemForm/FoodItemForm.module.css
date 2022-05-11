@@ -1,0 +1,18 @@
+.form {
+  text-align: right;
+}
+
+.form button {
+  border: none;
+  cursor: pointer;
+  background-color: #4a54cf;
+  color: #DADCDF;
+  font-family: "JetBrains Mono", monospace;
+  padding: 5px 17px;
+  border-radius: 4px;
+}
+
+.form button:hover,
+.form button:active {
+    background-color: #2b3498;
+}
