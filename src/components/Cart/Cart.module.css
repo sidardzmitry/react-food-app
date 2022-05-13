@@ -20,27 +20,18 @@
 }
 
 .actions button {
-  font: inherit;
-  cursor: pointer;
-  background-color: transparent;
-  border: 1px solid #6b068a;
-  padding: 0.5rem 2rem;
-  border-radius: 25px;
   margin-left: 1rem;
+  border: none;
+  cursor: pointer;
+  background-color: #21605d;
+  color: #D0D4D8;
+  font-family: "JetBrains Mono", monospace;
+  padding: 5px 17px;
+  border-radius: 4px;
 }
 
 .actions button:hover,
 .actions button:active {
-  background-color: #47035d;
-  border-color: #47035d;
-  color: white;
-}
-
-.actions .button__close {
-  color: #6b068a;
-}
-
-.actions .button {
-  background-color: #6b068a;
-  color: white;
+  background-color: #034c48;
+  color: D0D4D8;
 }

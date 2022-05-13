@@ -6,9 +6,10 @@ import ModalWindow from "./ModalWindow/ModalWindow";
 
 const portalElement = document.getElementById("overlays");
 const Modal = (props) => {
+  const {onHideCart} = props;
   return (
     <Fragment>
-      {ReactDOM.createPortal(<ModalBackdrop />, portalElement)}
+      {ReactDOM.createPortal(<ModalBackdrop onClick={onHideCart}/>, portalElement)}
       {ReactDOM.createPortal(
         <ModalWindow>{props.children}</ModalWindow>,
         portalElement

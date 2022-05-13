@@ -1,8 +1,9 @@
 import styles from "./ButtonHeaderCart.module.css";
 
-const ButtonHeaderCart = () => {
+const ButtonHeaderCart = (props) => {
+  const {onClick} = props;
   return (
-    <button className={styles["button__cart"]}>
+    <button className={styles["button__cart"]} onClick={onClick}>
       <span className={styles["button-icon__cart"]}>
         <i className="bi bi-cart"></i>
       </span>

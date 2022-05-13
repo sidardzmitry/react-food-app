@@ -1,10 +1,9 @@
 import styles from "./ModalBackdrop.module.css";
 
 const ModalBackdrop = (props) => {
+  const {onClick} = props;
   return (
-    <div className={styles.backdrop}>
-      <div className={styles.content}>{props.children}</div>
-    </div>
+    <div className={styles.backdrop} onClick={onClick}></div>
   );
 };
 
