@@ -8,9 +8,9 @@
   font-family: "JetBrains Mono", monospace;
 }
 
-.cart-item h2 {
+.cart-item h3 {
   margin: 0 0 1rem 1rem;
-  color: #17181C;
+  color: #000000;
 }
 
 .summary {

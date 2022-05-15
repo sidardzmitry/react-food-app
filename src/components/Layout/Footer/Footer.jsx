@@ -6,7 +6,7 @@ const Footer = (props) => {
     <Fragment>
       <footer className={styles.footer}>
         <h5 className={styles["footer-title"]}>
-          @ {new Date().getFullYear()} Meat SteakHouse
+          @ {new Date().getFullYear()} SteakHouse
         </h5>
         <div className={styles["footer-block__icons"]}>
           <span className={styles.facebook}>
