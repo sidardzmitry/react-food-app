@@ -13,6 +13,8 @@
   font-weight: bold;
   font-size: 1.5rem;
   margin: 1rem 0;
+  font-family: "JetBrains Mono", monospace;
+  color: #1F2022;
 }
 
 .actions {
@@ -23,8 +25,8 @@
   margin-left: 1rem;
   border: none;
   cursor: pointer;
-  background-color: #21605d;
-  color: #D0D4D8;
+  background-color: #334f64;
+  color: #DADCDF;
   font-family: "JetBrains Mono", monospace;
   padding: 5px 17px;
   border-radius: 4px;
@@ -32,6 +34,5 @@
 
 .actions button:hover,
 .actions button:active {
-  background-color: #034c48;
-  color: D0D4D8;
+  background-color: #4b7595;
 }

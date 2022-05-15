@@ -3,7 +3,7 @@
   justify-content: space-between;
   margin: 1rem;
   padding-bottom: 1rem;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #ffffff;
 }
 
 .food h3 {
@@ -13,6 +13,7 @@
 
 .description {
   font-style: italic;
+  font-weight: 600;
 }
 
 .price {
@@ -20,4 +21,5 @@
   font-weight: bold;
   color: #26648b;
   font-size: 1.3rem;
+  font-weight: 600;
 }

@@ -4,32 +4,46 @@ import FoodItem from "../FoodItem/FoodItem";
 
 const FOOD_LIST = [
   {
-    id: "f1",
-    name: "Tulip Roll",
+    id: "1",
+    name: "Angus Beef Burger",
     description:
-      "cucumber, mango, spicy albacore tuna belly, bluefin negitoro,seared yuzu miso",
-    price: 24.45,
+      "Angus beef patty, cheddar, cos lettuce, tomato, burger sauce, onion rings. Served with crunchy chips or farm salad",
+    price: 29.99,
   },
   {
-    id: "f2",
-    name: "Sakura Roll",
+    id: "2",
+    name: "Chicken Breast",
     description:
-      "spicy salmon, cucumber, sliced scallop, mango, avocado, mayo,spicy sesame oil shrimp sauce",
-    price: 22.15,
+      "Portuguese marinated, pumpkin puree, wild mushrooms, French lentils, crispy pancetta and veal jus",
+    price: 25.45,
   },
   {
-    id: "f3",
-    name: "Dragon Roll",
+    id: "3",
+    name: "Steak Tagliata",
     description:
-      "seared unagi, organic greens, cucumber, avocado, tobiko, house-made unagi sauce",
-    price: 27.99,
+      "Flat iron steak, roasted heirloom tomatoes, rocket, Parmesan and chimichurri",
+    price: 36.99,
   },
   {
-    id: "f4",
-    name: "Haru Vegan Roll",
+    id: "4",
+    name: "Center Cut Filet Mignon",
     description:
-      "asparagus, sweet soy braised shiitake mushroom, carrot, avocado, vegan tofu mayo",
-    price: 19.99,
+      "8 ounces of our most lean and tender center cut tenderloin",
+    price: 35.99,
+  },
+  {
+    id: "5",
+    name: "Prime Rib",
+    description:
+      "12 or 16 ounces, slow roasted and served with Au Jus and Horseradish Cream",
+    price: 45.99,
+  },
+  {
+    id: "6",
+    name: "Flat Iron",
+    description:
+      "Tender and Marbled with Rich Beefy Flavor",
+    price: 32.99,
   },
 ];
 const FoodList = () => {

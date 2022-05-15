@@ -4,7 +4,7 @@
   left: 0;
   width: 100%;
   height: 4rem;
-  background-color: #334F64;
+  background-color: #334f64d4;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -22,12 +22,15 @@
 }
 .facebook{
     margin-right: 10px;
-    color: #46a8a7;
+    color: #e3e4e6;
+    font-size: 25px;
 }
 .twitter{
-    color: #46a8a7;
+    color: #e3e4e6;
+    font-size: 25px;
 }
 .instagram{
     margin-left: 10px;
-    color: #46a8a7;
+    color: #e3e4e6;
+    font-size: 25px;
 }

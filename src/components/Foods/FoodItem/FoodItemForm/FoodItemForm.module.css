@@ -5,7 +5,7 @@
 .form button {
   border: none;
   cursor: pointer;
-  background-color: #4a54cf;
+  background-color: #334f64d4;
   color: #DADCDF;
   font-family: "JetBrains Mono", monospace;
   padding: 5px 17px;
@@ -14,5 +14,9 @@
 
 .form button:hover,
 .form button:active {
-    background-color: #2b3498;
+  background-color: #334f64;
+}
+.text{
+  color: #ef4b4c;
+  font-weight: 600;
 }

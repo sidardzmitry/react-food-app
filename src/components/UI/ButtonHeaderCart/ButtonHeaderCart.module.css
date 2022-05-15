@@ -1,7 +1,7 @@
 .button__cart{
     border: none;
     cursor: pointer;
-    background-color: #ffd782;
+    background-color: #e3e4e6;
     color: #534666;
     font-family: 'JetBrains Mono', monospace;
     padding: 5px 20px;
@@ -12,7 +12,7 @@
 }
 .button__cart:hover,
 .button__cart:active{
-    background-color: #fac85a;
+    background-color: #f1f3f7;
 }
 .button-icon__cart{
     margin-right: 10px;
