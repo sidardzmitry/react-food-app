@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-steakhouse-app/static/css/main.0b69c4c8.css",
+    "main.js": "/react-steakhouse-app/static/js/main.cb9125ca.js",
+    "static/media/food-bg.jpg": "/react-steakhouse-app/static/media/food-bg.dd458dfb6ed24a9e5b09.jpg",
+    "index.html": "/react-steakhouse-app/index.html",
+    "main.0b69c4c8.css.map": "/react-steakhouse-app/static/css/main.0b69c4c8.css.map",
+    "main.cb9125ca.js.map": "/react-steakhouse-app/static/js/main.cb9125ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b69c4c8.css",
+    "static/js/main.cb9125ca.js"
+  ]
+}
