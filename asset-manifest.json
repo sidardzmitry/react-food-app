@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-steakhouse-app/static/css/main.dfcd89b0.css",
-    "main.js": "/react-steakhouse-app/static/js/main.31431d98.js",
+    "main.css": "/react-steakhouse-app/static/css/main.36ac669b.css",
+    "main.js": "/react-steakhouse-app/static/js/main.ccebebb4.js",
     "static/media/food-bg.jpg": "/react-steakhouse-app/static/media/food-bg.dd458dfb6ed24a9e5b09.jpg",
     "index.html": "/react-steakhouse-app/index.html",
-    "main.dfcd89b0.css.map": "/react-steakhouse-app/static/css/main.dfcd89b0.css.map",
-    "main.31431d98.js.map": "/react-steakhouse-app/static/js/main.31431d98.js.map"
+    "main.36ac669b.css.map": "/react-steakhouse-app/static/css/main.36ac669b.css.map",
+    "main.ccebebb4.js.map": "/react-steakhouse-app/static/js/main.ccebebb4.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfcd89b0.css",
-    "static/js/main.31431d98.js"
+    "static/css/main.36ac669b.css",
+    "static/js/main.ccebebb4.js"
   ]
 }
