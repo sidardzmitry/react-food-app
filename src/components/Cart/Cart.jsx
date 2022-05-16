@@ -35,6 +35,7 @@ const Cart = (props) => {
     <Modal onHideCart={onHideCart}>
       {cartItems}
       <div className={styles.total}>
+      <span className={styles.cross} onClick={onHideCart}><i className="bi bi-x"></i></span>
         <span>Total:</span>
         <span>{totalAmount}</span>
       </div>

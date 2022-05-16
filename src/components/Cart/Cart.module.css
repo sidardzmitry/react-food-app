@@ -36,3 +36,12 @@
 .actions button:active {
   background-color: #4b7595;
 }
+
+.cross{
+  position: absolute;
+  top: 0;
+  right: 12px;
+}
+.cross:hover{
+  cursor: pointer;
+}
